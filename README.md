@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MINA-POI
-- 👀 I’m interested in teaching physics and matchematics.
+- 👀 I’m interested in teaching physics and mathematics.
 - 🌱 I’m currently learning RF(Radio Frequency) linear accelerator design as my PhD project at TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics.
 - 💞️ I’m looking to collaborate on accelerator design for medical applications,like BNCT,and PET,...
 - 📫 How to reach me by email: abbaslomina@ymail.com
